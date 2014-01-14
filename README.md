@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hero-helloworld
 
 A [Heroku](http://www.heroku.com) web app using Compojure.
@@ -79,3 +80,7 @@ which can be very useful for debugging or inspecting live data.
 Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
+=======
+hero-helloworld
+===============
+>>>>>>> 381b4a8015d02bd99a496d8e7acd6d0a3ec74b1f
